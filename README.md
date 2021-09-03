@@ -7,7 +7,7 @@
 [我的博客](https://popcornboom.github.io/)
 ---
 ___
-## NetTXTEZ是什么?
+> ## NetTXTEZ是什么?
 > :cake: 一个针对小说网站开发的爬虫下载器
 
 ## NetTXTEZ有哪些功能？
